@@ -1,3 +1,3 @@
-module github.com/91he/ohos-napi
+module github.com/Xinlong-Wu/ohos-napi
 
 go 1.24
