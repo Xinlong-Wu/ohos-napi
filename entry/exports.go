@@ -1,7 +1,7 @@
 package entry
 
 import (
-	napi "github.com/91he/ohos-napi"
+	napi "github.com/Xinlong-Wu/ohos-napi"
 )
 
 type napiGoExport struct {
