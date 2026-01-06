@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	napi "github.com/91he/ohos-napi"
-	"github.com/91he/ohos-napi/entry"
+	napi "github.com/Xinlong-Wu/ohos-napi"
+	"github.com/Xinlong-Wu/ohos-napi/entry"
 )
 
 func init() {
